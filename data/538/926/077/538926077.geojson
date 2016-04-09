@@ -1,0 +1,52 @@
+{
+  "id": 538926077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"NZ",
+    "src:geom":"geoplanet",
+    "wof:belongsto":[
+        85687179,
+        102191583,
+        85633345,
+        101917157,
+        102079401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":"24504171"
+    },
+    "wof:country":"NZ",
+    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101917157,
+            "postalcode_id":538926077,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":538926077,
+    "wof:lastmodified":1460094478,
+    "wof:name":"8032",
+    "wof:parent_id":"101917157",
+    "wof:placetype":"postalcode",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+}
